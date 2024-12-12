@@ -1,0 +1,27 @@
+body{
+background-color: blanchedalmond;
+font-size: large;
+font-weight: bolder;
+color:rgba(117, 116, 109, 0.87);
+margin: 200px;
+text-align: justify;
+}
+h1{
+text-align: center;
+color: chocolate;
+font-weight: bold;
+}
+#keret1{
+border: solid 2px;
+border-color: brown;
+border-radius: 3%;
+text-align: justify;
+
+}
+.gypsy{
+background-image: url(/What-is-Jazz-Manouche.png);
+}
+
+
+
+
